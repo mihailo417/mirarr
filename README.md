@@ -32,22 +32,11 @@ This is a movie app that aims to simplify the process of watching movies and TV 
 
 ### Download
 
-Head over to the [releases](https://github.com/mirarr-app/mirarr/releases) page.
-Download Apk for android.
-Download mirarr-windows.zip for Windows.
-Download mirrar.zip for Linux.
-Download mirrar.ipa for sideloading on IOS.
-
 Mirarr is available on AUR as well.
 ```bash
 yay -S mirarr-bin
 ```
 Note: On linux you need to have `xdg-user-dirs` package installed.
-
-### Some stuff needs extra love
-
-The app supports custom styles for special movies and TV shows that have enough character.
-You can suggest/request more of them in [this issue](https://github.com/mirarr-app/mirarr/issues/58).
 
 #### Do I need to login?
 
@@ -68,7 +57,3 @@ No you don't have to. But the login process enables extra features like watchlis
 - TV chart for TV shows table.
 
 
-#### Support
-Consider starring the project.
-
-[Consider donating](https://github.com/mirarr-app/mirarr/blob/main/DONATION.md)
